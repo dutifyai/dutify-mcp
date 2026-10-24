@@ -4,6 +4,8 @@
 
 One hosted MCP server for the whole [Dutify](https://dutify.ai) suite. Nothing to install: point your MCP client at the URL and pass an API key.
 
+<img src="demo.gif" width="400" alt="An AI agent gets tasks, docs, calls and feedback through one Dutify sign-in">
+
 ```
 https://mcp.dutify.ai
 ```
